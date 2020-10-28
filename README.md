@@ -1,11 +1,11 @@
-# scripts
+# Some useful shell scripts...
 
-Install docker-ce
+Install docker-ce with one script:
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/ironfoxhu/scripts/master/install-docker-ce.sh)
+bash <(curl -s https://raw.githubusercontent.com/rionfox/scripts/master/install-docker-ce.sh)
 ```
 OR
 ```
-wget -qO- https://raw.githubusercontent.com/ironfoxhu/scripts/master/install-docker-ce.sh | bash
+wget -qO- https://raw.githubusercontent.com/rionfox/scripts/master/install-docker-ce.sh | bash
 ```
